@@ -62,7 +62,3 @@ These formulas are implemented via JavaScript functions in `script.js`.
 - 🧼 **Clean UI / UX** — simple layout with responsive design  
 - 🔧 **Easy to embed** — self-contained (HTML/CSS/JS) and portable  
 
----
-
-## 📁 Project Structure
-
